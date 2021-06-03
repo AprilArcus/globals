@@ -842,6 +842,7 @@
 		"RadioNodeList": false,
 		"Range": false,
 		"ReadableStream": false,
+		"ReadableStreamDefaultReader": false,
 		"registerProcessor": false,
 		"RemotePlayback": false,
 		"removeEventListener": false,
